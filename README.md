@@ -1,16 +1,23 @@
-# emailauthenticate
+# Movie Review App
 
-A new Flutter project.
+A new flutter movie app that consumes apis from different sites and is only created for educational purpose.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features?
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Email Authenticate (Fire-Base)
+- [x] View All Trending movies and TV shows (TMDB API)
+- [x] Responsive Layout
+- [x] Can check the ratings,descripition inclding all the info regarding movies.
+- [x] Can add your opinion/vies reagrding movie (SQL-Database)
+- [x] Can add to your favourites list (SQL-Database)
+- [x] View your logged in profile name and user picture
+- [x] logout
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## You can find apk:
+
+build\app\outputs\flutter-apk\app-release.apk(21.6MB).
+
+
+
