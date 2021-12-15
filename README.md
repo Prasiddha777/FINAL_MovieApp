@@ -22,7 +22,7 @@ build\app\outputs\flutter-apk\app-release.apk(21.6MB).
 ## Images
 
 
-![Screenshot_1639043362](https://user-images.githubusercontent.com/53443661/146103392-2a85874b-83a7-4c06-a38b-2dfa19f84803.png)
+![Screenshot_1639043362](https://user-images.githubusercontent.com/53443661/146103392-2a85874b-83a7-4c06-a38b-2dfa19f84803.png | width=100)
 ![Screenshot_1639043432](https://user-images.githubusercontent.com/53443661/146103418-354576f5-fb30-49ba-a9cf-2c9701a7b0f5.png)
 ![Screenshot_1639043437](https://user-images.githubusercontent.com/53443661/146103424-37a40a10-0755-42d6-a8ac-0c0d7e536494.png)
 ![Screenshot_1639043507](https://user-images.githubusercontent.com/53443661/146103440-bd1f385a-0d50-497f-a7f1-c586e80108bd.png)
