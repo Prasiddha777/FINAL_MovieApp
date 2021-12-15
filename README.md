@@ -20,12 +20,12 @@ A new flutter movie app that consumes apis from different sites and is only crea
 build\app\outputs\flutter-apk\app-release.apk(21.6MB).
 
 ## Images
+### click to view the images:
 
-
-![Screenshot_1639043362](https://user-images.githubusercontent.com/53443661/146103392-2a85874b-83a7-4c06-a38b-2dfa19f84803.png =200x200)
-![Screenshot_1639043432](https://user-images.githubusercontent.com/53443661/146103418-354576f5-fb30-49ba-a9cf-2c9701a7b0f5.png)
-![Screenshot_1639043437](https://user-images.githubusercontent.com/53443661/146103424-37a40a10-0755-42d6-a8ac-0c0d7e536494.png)
-![Screenshot_1639043507](https://user-images.githubusercontent.com/53443661/146103440-bd1f385a-0d50-497f-a7f1-c586e80108bd.png)
-![Screenshot_1639048872](https://user-images.githubusercontent.com/53443661/146103456-584df386-2191-4c94-8b31-69044834935f.png)
-![Screenshot_1639042259](https://user-images.githubusercontent.com/53443661/146103476-045db234-95b4-45d1-9be5-bcb257a2bfc0.png)
-![Screenshot_1639042200](https://user-images.githubusercontent.com/53443661/146103485-d85b9c45-40ea-4750-8385-926ab2848199.png)
+![Screenshot_1639043362](https://user-images.githubusercontent.com/53443661/146103392-2a85874b-83a7-4c06-a38b-2dfa19f84803.png =200x400)
+![Screenshot_1639043432](https://user-images.githubusercontent.com/53443661/146103418-354576f5-fb30-49ba-a9cf-2c9701a7b0f5.png =200x400)
+![Screenshot_1639043437](https://user-images.githubusercontent.com/53443661/146103424-37a40a10-0755-42d6-a8ac-0c0d7e536494.png =200x400)
+![Screenshot_1639043507](https://user-images.githubusercontent.com/53443661/146103440-bd1f385a-0d50-497f-a7f1-c586e80108bd.png =200x400)
+![Screenshot_1639048872](https://user-images.githubusercontent.com/53443661/146103456-584df386-2191-4c94-8b31-69044834935f.png =200x400)
+![Screenshot_1639042259](https://user-images.githubusercontent.com/53443661/146103476-045db234-95b4-45d1-9be5-bcb257a2bfc0.png =200x400)
+![Screenshot_1639042200](https://user-images.githubusercontent.com/53443661/146103485-d85b9c45-40ea-4750-8385-926ab2848199.png =200x400)
